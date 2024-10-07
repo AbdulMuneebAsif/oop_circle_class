@@ -1,0 +1,27 @@
+# ninja log v6
+2	199	1728296471352742771	CMakeFiles/oop_circle_class.dir/Circle.cpp.o	d585524e8842fc3a
+1	750	1728296471351742786	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+2	81	1728296543218678628	CMakeFiles/oop_circle_class.dir/Circle.cpp.o	d585524e8842fc3a
+2	632	1728296543217678643	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+2	69	1728296660697028376	CMakeFiles/oop_circle_class.dir/Circle.cpp.o	d585524e8842fc3a
+1	607	1728296660696028390	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+2	603	1728296700758487423	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+603	701	1728296701359479384	oop_circle_class	c4cd8cd460e17bcd
+3	610	1728296708914378515	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+610	706	1728296709521370425	oop_circle_class	c4cd8cd460e17bcd
+2	614	1728296716743274340	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+1	614	1728296723244188109	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+615	710	1728296723858179978	oop_circle_class	c4cd8cd460e17bcd
+3	107	1728296740244963758	CMakeFiles/oop_circle_class.dir/Circle.cpp.o	d585524e8842fc3a
+2	618	1728296740243963771	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+618	713	1728296740859955673	oop_circle_class	c4cd8cd460e17bcd
+3	614	1728296748929849778	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+1	630	1728296761994679092	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+2	62	1728296826055855033	CMakeFiles/oop_circle_class.dir/Circle.cpp.o	d585524e8842fc3a
+62	155	1728296826115854271	oop_circle_class	c4cd8cd460e17bcd
+2	652	1728296896589970151	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+653	749	1728296897240962085	oop_circle_class	c4cd8cd460e17bcd
+3	612	1728296905204863542	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+612	700	1728296905813856017	oop_circle_class	c4cd8cd460e17bcd
+2	674	1728297296741270266	CMakeFiles/oop_circle_class.dir/main.cpp.o	a79cebc9c10abece
+674	767	1728297297413262709	oop_circle_class	c4cd8cd460e17bcd
