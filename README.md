@@ -68,8 +68,4 @@ To build the project, follow these steps:
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
